@@ -1,0 +1,4 @@
+cgan			FID=247.80	IS=2.41 ± 0.06
+dcgan			FID=72.44	IS=4.89 ± 0.16
+dc-cgan(non-opt)	FID=70.46	IS=5.80 ± 0.14
+

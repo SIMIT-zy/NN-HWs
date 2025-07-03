@@ -1,0 +1,10 @@
+discriminator_200.pth: DC-CGAN200次训练保存鉴别器权重
+generator_200.pth: DC-CGAN200次训练保存生成器权重
+discriminator_opt1.pth: DC-CGAN第一批优化保存鉴别器权重
+generator_opt1.pth: DC-CGAN第一批优化保存生成器权重
+discriminator_opt2.pth: DC-CGAN第二批优化保存鉴别器权重
+generator_opt2.pth: DC-CGAN第二批优化保存生成器权重
+discriminator_DCGAN_gray.pth: DCGAN基于灰度CIFAR10训练保存鉴别器权重
+generator_DCGAN_gray.pth: DC-CGAN基于灰度CIFAR10训练保存生成器权重
+generator_repair.pth: Res-CGAN初步训练保存生成器权重
+resnet56_cifar10-0452-628c42a2.pth: 联合判别器用到的resnet56_cifar10预训练权重
